@@ -14,7 +14,9 @@ Tweets can be split up into the given structure.
      Actual tweet date - 7:56 PM Feb 9, 2020
      Split by '/', take the final component
    - Convert to Binary
-   - Substring binary into timestamp, datacenter, server and sequence. Pass to given timestamp logic.
+   - Substring binary into timestamp, datacenter, server and sequence. 
+   - Pass to given timestamp logic.
+   - Return timestamp and decimal conversion of datacenter, server and sequence.
 
  Twitter IDs - More info here: https://developer.twitter.com/en/docs/basics/twitter-ids 
 

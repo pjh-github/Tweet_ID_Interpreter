@@ -18,7 +18,7 @@ Tweets can be split up into the given structure.
    - Pass to given timestamp logic.
    - Return timestamp and decimal conversion of datacenter, server and sequence.
 
- Twitter IDs - More info here: https://developer.twitter.com/en/docs/basics/twitter-ids 
+More info here: https://developer.twitter.com/en/docs/basics/twitter-ids 
 
  ### Todo - 
  

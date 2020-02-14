@@ -1,4 +1,4 @@
-# Tweet_ID_Interpreter
+# Tweet ID Interpreter
 Small script for decoding and parsing twitter tweet ids &amp; associated resources.
 
 ## Goal - Extract timestamp, datacenter, server and sequence from tweet ID.

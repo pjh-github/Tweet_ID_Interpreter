@@ -1,4 +1,4 @@
-# Tweet ID Interpreter
+# Extract Date, Data centre, server and sequence ID from Tweets. 
 Small script for decoding and parsing twitter tweet ids &amp; associated resources.
 
 ## Goal - Extract timestamp, datacenter, server and sequence from tweet ID.

@@ -5,7 +5,9 @@ Small script for decoding and parsing twitter tweet ids &amp; associated resourc
 ## Assumptions
 
 This is accurate: https://developer.twitter.com/en/docs/basics/twitter-ids 
+
 This is accurate: https://twitter.com/conspirator0/status/1227063249440509952/photo/1
+
 Tweets can be split up into the given structure.
 
 ## Methodology
